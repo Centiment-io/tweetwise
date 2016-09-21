@@ -1,6 +1,6 @@
 # Tweetwise #
 
-Tweetwise is my attempt to create an automated system for Bitcoin trading, implementing the techiniques described in Colianni et al. to build a predictive model using Twitter Sentiment analysis [1].
+Tweetwise is my attempt to create an automated system for Bitcoin trading, implementing the techniques described in Colianni et al. to build a predictive model based on Twitter sentiment analysis [1].
 
 More details to follow.
 

@@ -1,2 +1,4 @@
 .DS_Store
 venv
+tweetwise_config.py
+__pycache__

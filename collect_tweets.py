@@ -1,6 +1,6 @@
 '''
 collect_tweets.py
-Gets latest tweets containing keyword 'bitcoin', and output to file.
+Includes functions for retrieving tweets using Tweepy API
 
 Created by Miles Luders
 '''
@@ -44,4 +44,5 @@ def write_tweets_to_file(fname, tweets):
 
 if __name__ == '__main__':
     T = get_latest_tweets('bitcoin', 5)
-    write_tweets_to_file('output.txt', T)
+    #write_tweets_to_file('output.txt', T)
+    print(len(T))

@@ -1,4 +1,5 @@
 .DS_Store
 venv
 tweetwise_config.py
+tweetwise-bronze.pem
 __pycache__
